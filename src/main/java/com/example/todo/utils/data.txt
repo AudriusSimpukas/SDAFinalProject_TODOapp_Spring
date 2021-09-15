@@ -1,0 +1,25 @@
+{
+    "taskName": "First thing to do",
+    "taskPlace": "Namai",
+    "taskDate": "2021-09-14"
+}
+{
+    "taskName": "Second thing to do",
+    "taskPlace": "Darbas",
+    "taskDate": "2021-09-14"
+}
+{
+    "taskName": "Just thing to do",
+    "taskPlace": "Garazas",
+    "taskDate": "2021-09-21"
+}
+{
+    "taskName": "Another thing to do",
+    "taskPlace": "Sodas",
+    "taskDate": "2021-09-28"
+}
+{
+    "taskName": "Any time thing to do",
+    "taskPlace": "Balkonas",
+    "taskDate": "2021-12-31"
+}
